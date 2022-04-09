@@ -6,7 +6,7 @@
   },
 
   "scripts": {
-    "test:chrome": "cypress run --browser chrome --no-exit"
+    "test:chrome": "npx cypress open"
   },
 
   "cypress-cucumber-preprocessor": {
